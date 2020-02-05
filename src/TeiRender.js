@@ -1,4 +1,3 @@
-'strict'
 import { html, css, LitElement } from 'lit-element';
 import CETEI from 'CETEIcean';
 
