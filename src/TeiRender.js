@@ -1,5 +1,5 @@
 import { html, css, LitElement } from 'lit-element';
-import CETEI from 'CETEIcean';
+import { CETEI } from './lib/ceteicean.js';
 
 export class TeiRender extends LitElement {
 
@@ -1872,7 +1872,7 @@ html {
           
           // Adds a new handler for <term>, wrapping it in an HTML <b>
           "speaker": function (elt) {
-            var b = document.createElement("b");
+            const b = document.createElement("b");
             b.innerHTML = elt.innerHTML;
             return b;
           },
@@ -1893,6 +1893,7 @@ html {
       console.log("Error in getting the document.")
     }
   }
+
   createRenderRoot() {
     return this;
   }

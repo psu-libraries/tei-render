@@ -1721,11 +1721,6 @@
   resolved "https://registry.yarnpkg.com/@webcomponents/webcomponentsjs/-/webcomponentsjs-2.4.1.tgz#7baadec56ed2fd79b94ddfd509132d8c0c295c5c"
   integrity sha512-7jxBb+KoWncKb/JGFyTY40PjV4yRx2zd35ZLuvRP+6WndJDL7X32ZIZ7bN3sSQIl+NzJkCo7chfXJyzn+6WZaQ==
 
-CETEIcean@^1.1.1:
-  version "1.1.1"
-  resolved "https://registry.yarnpkg.com/CETEIcean/-/CETEIcean-1.1.1.tgz#675777ad6276318c8304fcc29fa9b6f5175941f2"
-  integrity sha512-X5b6mZNrh8Fh5hvKePlEM6YBDt8HONXaWerzkXxQJn+bbawOnpVyYOKG3EnHhsPAVEYLw3gKaWsPtvg8K2aMyA==
-
 accepts@^1.3.5, accepts@~1.3.4:
   version "1.3.7"
   resolved "https://registry.yarnpkg.com/accepts/-/accepts-1.3.7.tgz#531bc726517a3b2b41f850021c6cc15eaab507cd"
